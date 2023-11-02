@@ -33,28 +33,28 @@ Select Your Gender
 <input type="radio" name="Gender" id="Male" checked> Male 
 <br/>
 <br/>
-<input type="radio"name="Gender" id="femal">Female
+<input type="radio" name="Gender" id="femal">Female
 
 <br/>
 <br/>
 
 Hobbies
 
-<input type="checkbox" name="singing"id="singing">Singing <input type="checkbox" name="playing"id="playing"checked >Playing
+<input type="checkbox" name="singing" id="singing">Singing <input type="checkbox" name="playing" id="playing" checked >Playing
 <br/>
 <br/>
 city <select id="city">
 
-<option> Chandigarh</option> 
+<option> Chandigarh </option> 
 <br/>
 <br/>
-<option> Mohali</option>
+<option> Mohali </option>
 <br/>
 <br/>
-<option> Panchkula</option>
+<option> Panchkula </option>
 <br/>
 <br/>
-<option> Delhi</option>
+<option> Delhi </option>
 <br/>
 <br/> 
 <input type="submit" value="save data">
